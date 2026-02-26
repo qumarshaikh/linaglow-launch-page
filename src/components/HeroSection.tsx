@@ -71,10 +71,10 @@ const HeroSection = () => {
         className="relative z-10 flex flex-col items-center text-center max-w-3xl mx-auto"
       >
         {/* Logo */}
-        <img src={logo} alt="LinaGlow" className="h-16 md:h-20 mb-8" />
+        <img src={logo} alt="LinaGlow" className="h-20 md:h-28 mb-8" />
 
         {/* Headline */}
-        <h1 className="font-display text-4xl md:text-6xl lg:text-7xl font-light text-foreground leading-tight mb-4">
+        <h1 className="font-display text-3xl md:text-4xl lg:text-5xl font-normal text-muted-foreground leading-tight mb-4">
           Where Elegance Begins
         </h1>
 
